@@ -1,16 +1,16 @@
-### DataMining-Tutorials 
+# DataMining-Tutorials 
 This repository contains implementations of various data mining techniques, including machine learning models, association and clustering models, as well as neural networks and recurrent neural networks for time series analysis. The repository is organized into different folders to help you navigate through the code, data, and accompanying notes.
 
-# Folders
+## Folders
 Data Folder
 
 The data folder contains datasets used for training and testing the implemented models. Each dataset is stored in a separate file and is in a format suitable for the specific model's requirements.
 
-Notes Folder
+## Notes Folder
 
 The notes folder contains explanatory documents and guides related to the models and techniques implemented in this repository. These notes provide insights, explanations, and usage instructions for each model, making it easier for you to understand and utilize the code.
 
-Python Implementation Folder
+## Python Implementation Folder
 
 The python_implementation folder contains the actual Python code implementing various data mining techniques. The code in a ipynb format can be run on google colab or jupyter notebook.Areas mostly covered include ML model implementation using Scikit-learn, which includes Python scripts implementing machine learning models such as decision trees, k-nearest neighbors (KNN), logistic regression, and other popular algorithms. Each script is well-documented and can be run independently.
 
@@ -24,11 +24,11 @@ Follow the instructions in the respective model's notes to understand the usage 
 
 Please note that this repository serves as a resource for learning and experimentation with data mining techniques. You are encouraged to explore, modify, and enhance the code to suit your specific needs or apply the techniques to your own datasets.
 
-License
+## License
 
 This repository is open-source and distributed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes, but please attribute the original authors by maintaining the license information.
 
-Usage
+## Usage
 
 To utilize this repository, follow these steps:
 
