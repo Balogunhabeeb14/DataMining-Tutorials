@@ -20,14 +20,14 @@ To utilize this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-bash
+[bash
 Copy code
-git clone https://github.com/your-username/data-mining-repo.git
+git clone https://github.com/your-username/data-mining-repo.git](https://github.com/Balogunhabeeb14/DataMining-Tutorials.git)
 Navigate to the cloned repository's directory:
 
-bash
+[bash
 Copy code
-cd data-mining-repo
+cd data-mining-repo]
 Explore the different folders to access the datasets, notes, and implementation code for the desired models.
 
 Follow the instructions in the respective model's notes to understand the usage and run the Python scripts for training and testing the models on the provided datasets.
