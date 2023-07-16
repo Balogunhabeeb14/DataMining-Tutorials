@@ -23,10 +23,12 @@ To utilize this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/Balogunhabeeb14/DataMining-Tutorials.git
+```bash
+git clone https://github.com/Balogunhabeeb14/DataMining-Tutorials.git 
 
 Navigate to the cloned repository's directory:
 
+```bash
 cd DataMining-Tutorials
 
 Explore the different folders to access the datasets, notes, and implementation code for the desired models.
