@@ -18,19 +18,6 @@ Furthermore, the Python scripts implementing association mining models such as A
 
 Lastly, it contains Python scripts implementing neural network models, including feed-forward neural networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs). These models are useful for sequence analysis.
 
-Usage
-To utilize this repository, follow these steps:
-
-Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/Balogunhabeeb14/DataMining-Tutorials.git 
-
-Navigate to the cloned repository's directory:
-
-
-cd DataMining-Tutorials
-
 Explore the different folders to access the datasets, notes, and implementation code for the desired models.
 
 Follow the instructions in the respective model's notes to understand the usage and run the Python scripts for training and testing the models on the provided datasets.
@@ -39,3 +26,13 @@ Please note that this repository serves as a resource for learning and experimen
 
 License
 This repository is open-source and distributed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes, but please attribute the original authors by maintaining the license information.
+
+Usage
+To utilize this repository, follow these steps:
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/Balogunhabeeb14/DataMining-Tutorials.git 
+
+cd DataMining-Tutorials
