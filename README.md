@@ -25,9 +25,11 @@ Follow the instructions in the respective model's notes to understand the usage 
 Please note that this repository serves as a resource for learning and experimentation with data mining techniques. You are encouraged to explore, modify, and enhance the code to suit your specific needs or apply the techniques to your own datasets.
 
 License
+
 This repository is open-source and distributed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes, but please attribute the original authors by maintaining the license information.
 
 Usage
+
 To utilize this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
