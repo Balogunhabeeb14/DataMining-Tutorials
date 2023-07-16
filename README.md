@@ -28,7 +28,7 @@ git clone https://github.com/Balogunhabeeb14/DataMining-Tutorials.git
 
 Navigate to the cloned repository's directory:
 
-```bash
+
 cd DataMining-Tutorials
 
 Explore the different folders to access the datasets, notes, and implementation code for the desired models.
