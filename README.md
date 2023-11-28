@@ -1,11 +1,11 @@
 # DataMining-Tutorials 
-This repository contains implementations of various data mining techniques, including machine learning models, association and clustering models, as well as neural networks and recurrent neural networks for time series analysis. The repository is organized into different folders to help you navigate through the code, data, and accompanying notes.
+This repository contains implementations of various data mining techniques, including machine learning models, association and clustering models, as well as neural networks and recurrent neural networks for time series analysis. The repository is organized into different folders to help you navigate through the code and data.
 
 ### Python & R Implementation Folder
 
 The folders contains the actual Python & R code implementing various data mining techniques. 
 
-Explore the different folders to access the datasets, notes, and implementation code for the desired models.
+Explore the different folders to access the datasets, and implementation code for the desired models.
 
 Follow the instructions in the respective model's notes to understand the usage and run the scripts for training and testing the models on the provided datasets.
 
